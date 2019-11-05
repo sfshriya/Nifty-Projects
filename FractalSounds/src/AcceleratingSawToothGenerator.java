@@ -4,7 +4,6 @@
 *  http://nifty.stanford.edu/2017/hug-fractal-sound/
  */
 
-
 public class AcceleratingSawToothGenerator implements Generator {
 
     private double state;
