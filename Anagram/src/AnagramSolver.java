@@ -1,6 +1,7 @@
 //Shriya Kagolanu 
 //Paley A Period
 //Anagram Solver - find all anagram word combinations under max words limit for a given phrase 
+//Stanford Nifty project
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.util.ArrayList;
